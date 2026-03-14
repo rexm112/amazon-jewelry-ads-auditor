@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon Jewelry Ads Auditor"
+  short_description: "Analyze Amazon NA jewelry ad spreadsheets for low-cost operators."
